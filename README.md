@@ -1,1 +1,1 @@
-Esse projeto mostra uma página de teste html/css.
+Esse projeto mostra uma página de teste html/css e pratico um pouco Git e GitHub.
